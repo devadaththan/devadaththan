@@ -1,13 +1,13 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Devadathan K Rajan]! 👋
 
 ## 🌍 About Me
 I'm a [Your Profession/Role] based in [Your Location]. I love building [types of applications or projects you enjoy], and I'm passionate about [your interests in technology, such as AI, web development, etc.].
 
 ## 🛠️ Tech Stack
-- **Languages**: JavaScript, Python, Ruby
-- **Frameworks**: React, Node.js, Django
+- **Languages**: C, Java, Python, 
+- **Frameworks**: React, Django
 - **Databases**: MongoDB, PostgreSQL
-- **Tools**: Git, Docker, VS Code
+- **Tools**: Git, , VS Code
 
 ## 🚀 Projects
 Here are a few projects I've worked on:

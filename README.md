@@ -1,7 +1,7 @@
 # Hi there, I'm [Devadathan K Rajan]! 👋
 
 ## 🌍 About Me
-I'm a [Your Profession/Role] based in [Your Location]. I love building [types of applications or projects you enjoy], and I'm passionate about [your interests in technology, such as AI, web development, etc.].
+
 
 ## 🛠️ Tech Stack
 - **Languages**: C, Java, Python, 
